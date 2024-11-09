@@ -17,6 +17,7 @@
 ---
 # _Dummy Changes_**
 ## hotfix iteration 2 (expected-conflict)
+## hotfix iteration one (expected conflict)
 ## third feature
 ## second feature
 ## fixing first feature
