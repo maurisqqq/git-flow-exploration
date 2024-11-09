@@ -8,6 +8,7 @@
 # **_📝 Changes Writing Format_**
 ## v1.2.1 - 11/09/2024
 - hotfix: type your feature description here
+- hotfix: type your feature description here
 ## v1.2.0 - 11/09/2024
 - feature: type your feature description here
 ## v1.1.1 - 11/09/2024
