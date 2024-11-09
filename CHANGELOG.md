@@ -15,5 +15,6 @@
 ---
 # _Dummy Changes_**
 ## third feature
+## second feature
 ## fixing first feature
 ## first feature
