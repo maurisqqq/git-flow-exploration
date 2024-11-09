@@ -6,15 +6,17 @@
 - hotfix: 
 ---
 # **_📝 Changes Writing Format_**
+## v1.4.0 - 11/09/2024
+- feature: add readme.md file
 ## v1.3.0 - 11/09/2024
 - feature: type your feature description here
 ## v1.2.1 - 11/09/2024
-- hotfix: type your feature description here
-- hotfix: type your feature description here
+- hotfix: type your description here
+- hotfix: type your description here
 ## v1.2.0 - 11/09/2024
 - feature: type your feature description here
 ## v1.1.1 - 11/09/2024
-- hotfix: type your feature description here
+- hotfix: type your description here
 ## v1.1.0 - 11/09/2024
 - feature: type your feature description here
 ## v1.0.0 - 11/09/2024
