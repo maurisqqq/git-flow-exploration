@@ -16,6 +16,7 @@
 - First release
 ---
 # _Dummy Changes_**
+## hotfix iteration one (expected conflict)
 ## third feature
 ## second feature
 ## fixing first feature
